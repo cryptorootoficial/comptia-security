@@ -1,0 +1,38 @@
+AES;Advanced Encryption Standard
+DES;Digital Encryption Standard
+3DES;Triple Digital Encryption Standard
+RC4;Rivest Cipher version 4
+CBC;Cipher Block Chaining
+GCM;Galois Counter Mode
+ECB;Electronic Code Book
+CTM;CounTer-Mode
+RSA;Rivest, Shamir, & Adleman
+DSA;Digital Signature Algorithm
+DHE;Diffie-Hellman Ephemeral
+ECDHE;Elliptic Curve Diffie-Hellman Ephemeral
+PGP/GPG;Pretty Good Privacy / Gnu Privacy Guard
+MD5;Message Digest 5
+SHA;Secure Hashing Algorithm
+HMAC;Hashed Message Authentication Code
+RIPEMD;RACE Integrity Primitives Evaluation Message Digest
+PBKDF2;Password-based Key Derivation Function 2
+XOR;Exclusive Or
+WPA;WiFi Protected Access
+WPA2;WiFi Protected Access 2
+CCMP;Counter-Mode/CBC-Mac Protocol
+TKIP;Temporal Key Integrity Protocol
+EAP;Extensible Authentication Protocol
+PEAP;Protected Extensible Authentication Protocol
+TLS;Transport Layer Security
+SSL;Secure Sockets Layer
+RADIUS;Remote Authentication Dial-in User Server
+PSK;Pre-shared Key
+WPS;WiFi Protected Setup
+CA;Certificate Authority
+CRL;Certificate Revocation List
+OCSP;Online Certificate Status Protocol
+CSR;Certificate Signing Request
+DER;Distinguished Encoding Rules
+PEM;Privacy-enhanced Electronic Mail
+PFX;Personal Exchange Format
+CER;Certificate
